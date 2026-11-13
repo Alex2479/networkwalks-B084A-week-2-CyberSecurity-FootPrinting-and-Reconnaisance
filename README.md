@@ -97,20 +97,22 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, practical exerci
 
 ## 8. Evidence Collected
 
-* **WHOIS Output:**  
-  ![WHOIS Evidence](assets/whois.png)
+* **WHOIS Output (Part 1):**  
+  ![WHOIS 1](Whois-1.png)
+* **WHOIS Output (Part 2):**  
+  ![WHOIS 2](Whois-2.png)
 * **WhatWeb Fingerprinting:**  
-  ![WhatWeb Evidence](assets/whatweb.png)
+  ![WhatWeb](Whatweb.png)
 * **Nslookup Resolution:**  
-  ![Nslookup Evidence](assets/nslookup.png)
+  ![Nslookup](Nslookup.png)
 * **Curl Header Inspection:**  
-  ![Curl Evidence](assets/curl.png)
+  ![Curl](Curl%20-I.png)
 * **Wafw00f Detection:**  
-  ![Wafw00f Evidence](assets/wafwoof.png)
-* **Zenmap Ping Scan:**  
-  ![Zenmap Scan](assets/zenmap_scan.png)
-* **Zenmap Topology:**  
-  ![Zenmap Topology](assets/zenmap_topology.png)
+  ![Wafw00f](wafwoof.png)
+* **DNSRecon Output (Part 1):**  
+  ![DNSRecon 1](Dnsrecon.png)
+* **DNSRecon Output (Part 2):**  
+  ![DNSRecon 2](DSNrecon2.png)
 
 ---
 
