@@ -117,5 +117,5 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, practical exerci
 ---
 
 👤 **Author:** Junayen Ansari (Cybersecurity Trainee)  
-🔗 **LinkedIn:** [Junayen Ansari](www.linkedin.com/in/junayen-ansari-204674208)  
+🔗 **LinkedIn:** (www.linkedin.com/in/junayen-ansari-204674208)  
 📌 **Program:** Cybersecurity Program at Networkwalks | Week 02
